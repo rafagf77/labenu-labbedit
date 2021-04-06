@@ -1,5 +1,5 @@
 ### LABEDDIT
-Projeto de rede social similar ao reddit.com desnvolvido durante curso Web Full Stack na Labenu
+Projeto de rede social similar ao reddit.com desenvolvido durante curso Web Full Stack na Labenu
 
 ### O que funciona
 - Rotas
